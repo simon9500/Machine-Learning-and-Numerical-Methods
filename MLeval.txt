@@ -1,0 +1,25 @@
+Features used
+
+Temperature   Visibilty   Pressure   Pressure Trend   Humidity   
+
+Running time for grid search
+3.34917497635
+
+Scoring method
+f1
+
+Best Parameters
+{}
+
+Classification report
+               precision    recall  f1-score   support
+
+        Clear       0.61      0.53      0.57      1775
+       Cloudy       0.81      0.88      0.84      6419
+Precipitation       0.61      0.35      0.44       842
+
+  avg / total       0.75      0.76      0.75      9036
+
+
+Running time
+0.0382850170135
