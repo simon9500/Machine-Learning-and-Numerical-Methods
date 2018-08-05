@@ -1,1 +1,3 @@
-This directory contains assigned work on Monte Carlo simulations.  I completed the work using classes and also without.
+This directory contains assigned work on Monte Carlo simulations.
+
+`NumRepCheckpt1Class.py` is the final draft of the work in a neater, class format.
